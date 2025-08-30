@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   const button = document.getElementById("testBtn");
-  const result = document.getElementById("result");
+  const result = document.getElementById("Result");
 
   button.addEventListener("click", function () {
     result.textContent = "개발환경 설정 완료! 🎉";
