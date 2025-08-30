@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const result = document.getElementById("Result");
 
   button.addEventListener("click", function () {
-    result.textContent = "Branch Test! 🎉";
+    result.textContent = "Branch Practist! 🎉";
     console.log("B_test1 JavaScript 정상 작동!");
   });
 
